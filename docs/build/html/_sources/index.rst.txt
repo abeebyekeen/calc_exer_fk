@@ -10,6 +10,10 @@ Welcome to pycalc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   usage/installation.rst
+   usage/quickstart.rst
+   api.rst
+
 
 
 Indices and tables
